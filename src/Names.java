@@ -11,13 +11,18 @@ public class Names {
         Contacts contato3 = new Contacts();
         contato3.setName("Pedro");
 
+        Contacts contato4 = new Contacts();
+        contato4.setName("Alessandra");
+
         users[0] = contato1;
         users[1] = contato2;
         users[2] = contato3;
+        users[3] = contato4;
 
         System.out.println(users[0].getName());
         System.out.println(users[1].getName());
         System.out.println(users[2].getName());
+        System.out.println(users[3].getName());
 
     }
 }
