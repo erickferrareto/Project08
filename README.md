@@ -3,5 +3,3 @@ Listas em Java
 
 Aprendendo a trabalhar com Listas em Java, usando:
 
-for it
-List<>
